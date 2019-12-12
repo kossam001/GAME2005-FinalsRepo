@@ -63,11 +63,6 @@ bool CollisionManager::AABBCheck(GameObject * object1, GameObject * object2)
 	float P2width = object2->getWidth() * 0.5;
 	float P2height = object2->getHeight() * 0.5;
 
-	cout << (P1.x < P2.x + P2width) << endl;
-	cout << (P1.x + P1width > P2.x) << endl; //
-	cout << (P1.y < P2.y + P2height) << endl;
-	cout << (P1.y + P1height > P2.y) << endl;
-
 	if(
 		P1.x - P1width < P2.x + P2width &&
 		P1.x + P1width > P2.x - P2width &&

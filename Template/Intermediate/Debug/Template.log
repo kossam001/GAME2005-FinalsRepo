@@ -1,12 +1,37 @@
-﻿  StartScene.cpp
-c:\users\101168049\documents\section 3\src\startscene.cpp(84): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+﻿  CollisionManager.cpp
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\101168049\documents\section 3\src\startscene.cpp(85): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-  Template.vcxproj -> C:\Users\101168049\Documents\Section 3\bin\Debug\Template.exe
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(180): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(190): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(197): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(200): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(202): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(291): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=int
+          ]
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(292): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=int
+          ]
+c:\users\101168049\source\repos\game2005-finalsrepo2\src\collisionmanager.cpp(294): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Template.vcxproj -> C:\Users\101168049\source\repos\GAME2005-FinalsRepo2\bin\Debug\Template.exe
